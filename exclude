@@ -1,0 +1,7 @@
+# No copiar mis llaves ssh al backup externo
+./ssh
+# No es necesario los archivos de cache
+/.cache
+#No se necesita hacer backup de los bacupk logs
+**backup.log**
+
